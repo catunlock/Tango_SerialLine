@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include",
+                "/home/xaloc/ALBA/CSBL-4669/cpp_driver/src",
+                "/home/xaloc/ALBA/CSBL-4669/cpp_driver/serialib",
+                "/home/xaloc/.conda/envs/tango9.3.2/include/tango",
+                "/home/xaloc/.conda/envs/tango9.3.2/include/"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "gcc-arm"
+        }
+    ],
+    "version": 4
+}
